@@ -1,8 +1,7 @@
 class Main {
     public static void main(String[] args) {
         
-        
-        // static D & I
+   
         int[] num = {1,2,3};
         for(int i=0;i<num.length;i++){
             System.out.println(num[i]);
@@ -13,7 +12,7 @@ class Main {
             System.out.println(names[i]);
         }
         
-        // new
+       
          int[] num1 = new int[] {4,5,6};
         for(int i=0;i<num1.length;i++){
             System.out.println(num1[i]);
